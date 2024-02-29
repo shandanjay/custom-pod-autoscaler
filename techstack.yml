@@ -2,7 +2,7 @@ repo_name: shandanjay/custom-pod-autoscaler
 report_id: 685cd8f4a8a44242dfce07103770a8b0
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T14:27:55+00:00'
+timestamp: '2024-02-29T19:47:11+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: master
